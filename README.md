@@ -142,4 +142,4 @@ Copyright © 2026 Pitt Tools
 本工具由 Pitt Tools 製作，開發過程使用 ChatGPT 協助程式設計、除錯與文件整理。
 ## Screenshot
 
-![3D Model Image Search](docs/screenshot-main.png)
+![3D Model Image Search](docs/screenshot-main.PNG)
